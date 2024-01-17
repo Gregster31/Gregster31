@@ -25,6 +25,7 @@ Working on decoding frequencies from a weather satellite into an image using an 
 
 
 ### 🌱 Current Hobbies
-Software-Defined Radio (SDR)
-Watch Repair
+Software-Defined Radio (SDR)  
+Watch Repair  
+Origami
 
