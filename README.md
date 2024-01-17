@@ -18,8 +18,6 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br/>
 
----
-
 ### 🔭 Current Projects
 Working on decoding frequencies from a weather satellite into an image using an old umbrella as the antenna
 
