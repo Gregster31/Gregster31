@@ -1,5 +1,5 @@
 ![Gregster](https://github.com/Gregster31/Gregster31/blob/main/banner.png)
-I'm currently a 2nd year student studying CS at John-Abbott College. I don't have many big programming projects, but I'm always eager to learn more about this digital space. :space_invader:
+I'm currently a 2nd year student studying CS at John-Abbott College. I don't have many big programming projects under my belt, but I'm a fast learner and always eager to learn more about tech stuff. :space_invader:
 
 ---
 
