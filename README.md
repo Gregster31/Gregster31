@@ -1,6 +1,6 @@
 ![Gregster](https://github.com/Gregster31/Gregster31/blob/main/banner.png)
 <p align="center">
-  I'm currently a 2nd year student studying CS at John-Abbott College. I'm a fast learner and always eager to learn more about tech stuff. :space_invader:
+  I'm currently a 2nd year student studying Computer Science at John-Abbott College, proficient in both French and English. I'm a fast learner and always eager to learn more about technology! :space_invader:
 </p>
 
 ---
@@ -22,7 +22,9 @@
 
 
 ### 🔭 Current Projects
-Working on decoding frequencies from a weather satellite into an image using an old umbrella as the antenna
+Working on decoding frequencies from a weather satellite into an image using an old umbrella as the antenna  
+Learning TypeScript  
+Honing my problem solving skills in different languages (TS, JS, Python, C#)
 
 
 ### 🌱 Current Hobbies
