@@ -23,8 +23,6 @@
 
 ### 🔭 Current Projects
 Working on decoding frequencies from a weather satellite into an image using an old umbrella as the antenna  
-Learning TypeScript  
-Honing my problem-solving skills in different languages (TS, JS, Python, C#)
 
 
 ### 🌱 Current Hobbies
