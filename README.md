@@ -22,7 +22,7 @@
 
 
 ### 🔭 Current Projects
-Working on decoding frequencies from a weather satellite into an image using an old umbrella as the antenna  
+Working on decoding frequencies from a weather satellite into an image 
 
 
 ### 🌱 Current Hobbies
