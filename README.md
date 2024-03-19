@@ -22,7 +22,7 @@
 
 
 ### 🔭 Current Projects
-Working on decoding telecommunications from a weather satellite into readable data.
+Working on decoding telecommunications from a weather satellite into images.
 
 
 ### 🌱 Current Hobbies
