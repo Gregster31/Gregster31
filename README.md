@@ -1,4 +1,4 @@
-![Gregster](https://github.com/Gregster31/Gregster31/blob/main/banner.png)
+![Gregster](https://github.com/Gregster31/Gregster31/blob/main/banner (1).png)
 <p align="center">
   I'm currently a 2nd year student studying Computer Science at John-Abbott College, proficient in both <b>French</b> and <b>English</b>. I'm a fast learner and always eager to learn more about technology! :space_invader:
 </p>
