@@ -1,6 +1,6 @@
 ![Gregster](https://github.com/Gregster31/Gregster31/blob/main/new-banner.png)
 <p align="center">
-  I'm currently a 2nd year student studying Computer Science at John-Abbott College, proficient in both <b>French</b> and <b>English</b>. :space_invader:
+  I'm CompSci student. I like to play with hardware stuff and frequencies.
 </p>
 
 ---
