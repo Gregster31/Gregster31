@@ -22,7 +22,7 @@
 </p>
 
 ### 🔭 Current Projects
-Working on decoding telecommunications from a weather satellite into images.
+Algo-trading
 
 
 ### 🌱 Current Hobbies
