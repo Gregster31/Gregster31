@@ -23,6 +23,7 @@
 
 ### 🔭 Current Projects
 Algo-trading
+PC Build + Arch Linux
 
 
 ### 🌱 Current Hobbies
