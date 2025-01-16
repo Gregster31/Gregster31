@@ -22,7 +22,7 @@
 </p>
 
 ### 🔭 Current Projects
-Algo-trading
+Algo-trading <br>
 PC Build + Arch Linux
 
 
