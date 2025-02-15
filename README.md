@@ -23,6 +23,7 @@
 
 ### 🔭 Current Projects
 Algo-trading <br>
+Blockchain <br>
 PC Build + Arch Linux
 
 
