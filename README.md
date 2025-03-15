@@ -1,5 +1,4 @@
-<a href="https://www.linkedin.com/in/julien-halde/"><img align="right" src="https://github.com/user-attachments/assets/49a67a4e-07ae-4ff7-a3cf-64cf280f2d45"></a>
-
+<a href="https://www.linkedin.com/in/julien-halde/"><img align="right" src="https://github.com/user-attachments/assets/9147767f-0c3c-4ecf-8ddc-42d6f9d11e27"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23DF8E24&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+julien.;I'm+a+software+developer.;I+dabble+in+blockchain.;I+use+arch+btw.)](https://www.linkedin.com/in/julien-halde/)
 
