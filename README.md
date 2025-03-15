@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23DF8E24&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+julien.;I'm+a+software+developer.;I+dabble+in+blockchain.;I+use+arch+btw.)](https://www.linkedin.com/in/julien-halde/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23DF8E24&size=20&center=true&vCenter=true&height=40&lines=Hi+there%2C+I'm+julien.;I'm+a+software+developer.;I+dabble+in+blockchain.;I+use+arch+btw.)](https://www.linkedin.com/in/julien-halde/)
 
 I make stuff. Sometimes people like the stuff I make.
 
