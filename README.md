@@ -4,7 +4,7 @@
 
 I make stuff. Sometimes people like the stuff I make.
 
-I like folding paper into things and repairing watches.
+My keywords are Linux, Blockchain, Origami
 
 You can find me by clicking on these  ⇓
 
