@@ -8,7 +8,7 @@ My keywords are Linux, Blockchain, Origami
 
 You can find me by clicking on these  ⇓
 
-[![julien.web](https://img.shields.io/badge/julien.web-252422?style=for-the-badge&logoColor=white&logo=data)](https://gregster31.github.io/)
+<!-- [![julien.web](https://img.shields.io/badge/julien.web-252422?style=for-the-badge&logoColor=white&logo=data)](https://gregster31.github.io/) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-halde/)
 [![Play PixelPutt](https://img.shields.io/badge/Play%20PixelPutt-%23008000.svg?&style=for-the-badge&logo=golf&logoColor=white)](https://gregster31.github.io/PixelPutt/)
 <!--[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)]()-->
