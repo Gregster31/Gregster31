@@ -1,17 +1,20 @@
-<div align="center">
+# Hi there, I'm Julien 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23DF8E24&size=20&center=true&vCenter=true&height=40&lines=Hi+there%2C+I'm+julien.;I'm+a+software+developer.;I+dabble+in+blockchain.;I+use+arch+btw.)](https://www.linkedin.com/in/julien-halde/)
+### 🚀 2+ Years of Experience in Blockchain Development
 
-I make stuff. Sometimes people like the stuff I make.
+I'm a results-driven **Software Developer** with a professional background in **mobile development** for Android and iOS, and a passion for **blockchain development**. I specialize in building modern, scalable applications with **JavaScript/TypeScript-based stacks** and crafting secure, efficient **smart contracts** on Ethereum and other blockchain platforms.
 
-My keywords are Linux, Blockchain, Origami
+## 🔭 Interests
 
-You can find me by clicking on these  ⇓
+- ⚒ Building **decentralized applications (DApps)**
+- 🔐 Writing **secure and gas-optimized smart contracts**
+- 🌉 Integrating blockchain with modern web frontends
+- 📱 Web3 UX with **WalletConnect**, **MetaMask**, and other wallets
+- 🧩 Exploring **Layer 2 solutions** like **Ethereum**, **Polygon**, **Solana**, and **Binance Smart Chain**
 
-<!-- [![julien.web](https://img.shields.io/badge/julien.web-252422?style=for-the-badge&logoColor=white&logo=data)](https://gregster31.github.io/) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-halde/)
-[![Play PixelPutt](https://img.shields.io/badge/Play%20PixelPutt-%23008000.svg?&style=for-the-badge&logo=golf&logoColor=white)](https://gregster31.github.io/PixelPutt/)
-<!--[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)]()-->
-<!--[![Twitter](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/s1rGregor)-->
+## 🏔 Not just some guy in a chair
 
-</div>
+- 🪂 Skydiver  
+- 🧊 Ice climber  
+- 🥾 Hiker & Orienteerer  
+- 🌪 Storm Chaser
