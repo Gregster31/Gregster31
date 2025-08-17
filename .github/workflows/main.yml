@@ -20,7 +20,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg
+          additional_flags: ""
+          palette: "#FFA500" 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
