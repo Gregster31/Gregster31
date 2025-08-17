@@ -19,11 +19,11 @@ I'm a results-driven **Software Developer** with a professional background in **
 - 🥾 Hiker & Orienteerer  
 - 🌪 Storm Chaser
 
+
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulienH/output/snake.svg">
-  <img alt="Snake animation of my name" src="https://raw.githubusercontent.com/JulienH/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gregster31/output/snake-dark.svg">
+  <img alt="Snake animation of GitHub contribution graph" src="https://raw.githubusercontent.com/Gregster31/output/snake.svg">
 </picture>
 <br>
 <br>
-<img src="./assets/download.jpg" width="100%"/>
