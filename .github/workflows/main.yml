@@ -21,10 +21,10 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg
-          additional_flags: ""
-          palette: "#FFA500" 
+          color_snake: "#FFA500"   # orange
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
