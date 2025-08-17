@@ -21,7 +21,6 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg
-          color_snake: "#FFA500"   # orange
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
