@@ -18,3 +18,12 @@ I'm a results-driven **Software Developer** with a professional background in **
 - 🧊 Ice climber  
 - 🥾 Hiker & Orienteerer  
 - 🌪 Storm Chaser
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulienH/output/snake.svg">
+  <img alt="Snake animation of my name" src="https://raw.githubusercontent.com/JulienH/output/snake.svg">
+</picture>
+<br>
+<br>
+<img src="./assets/download.jpg" width="100%"/>
