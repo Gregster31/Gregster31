@@ -20,10 +20,7 @@ I'm a results-driven **Software Developer** with a professional background in **
 - 🌪 Storm Chaser
 
 
-<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gregster31/output/snake-dark.svg">
-  <img alt="Snake animation of GitHub contribution graph" src="https://raw.githubusercontent.com/Gregster31/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gregster31/Gregster31/output/snake-dark.svg">
+  <img alt="" src="https://raw.githubusercontent.com/Gregster31/Gregster31/output/snake.svg">
 </picture>
-<br>
-<br>
