@@ -1,6 +1,6 @@
 # Hi there, I'm Julien 👋
 
-### 🚀 1+ Years of Experience in Blockchain Development
+### 🚀 Experience in Blockchain Development
 
 I'm a results-driven **Software Developer** with a professional background in **mobile development** for Android and iOS, and a passion for **blockchain development**. I specialize in building modern, scalable applications with **JavaScript/TypeScript-based stacks** and crafting secure, efficient **smart contracts** on Ethereum and other blockchain platforms.
 
