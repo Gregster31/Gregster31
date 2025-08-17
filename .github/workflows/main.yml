@@ -20,10 +20,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg
+            dist/snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
